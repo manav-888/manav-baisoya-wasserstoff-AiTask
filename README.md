@@ -1,7 +1,8 @@
 # manav-baisoya-wasserstoff-AiTask
+![RAG Chatbot](https://github.com/manav-888/manav-baisoya-wasserstoff-AiTask/assets/28830098/13856b57-c841-479e-b2f7-6ff774124d01)
+
 ![Screenshot 2024-06-14 at 2 30 36 PM](https://github.com/manav-888/manav-baisoya-wasserstoff-AiTask/assets/28830098/62e53491-88bf-494b-b30a-eaf4b37f35af)
 ![Screenshot 2024-06-14 at 2 31 40 PM](https://github.com/manav-888/manav-baisoya-wasserstoff-AiTask/assets/28830098/8d5f9dc0-e85f-4c1d-95df-05fc87f1ca86)
-![RAG Chatbot](https://github.com/manav-888/manav-baisoya-wasserstoff-AiTask/assets/28830098/13856b57-c841-479e-b2f7-6ff774124d01)
 
 ## Setup Instructions
 
